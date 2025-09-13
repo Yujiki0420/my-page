@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+}
+
+header h1 {
+    background: rgb(249, 227, 153);
+    padding: 2rem;
+    text-align: center;
+}
+
+header li {
+    width: 25%;
+    list-style: none;
+    float: left;
+    text-align: center;
+}
+
+header li a {
+    display: block;
+    text-decoration: none;
+}
+header li a:hover {
+    background: rgb(249, 227, 153);
+}
+h3{
+    text-align: center;
+    margin: 1rem;
+}
+article{
+    margin-bottom: 2rem;
+}
+p{
+    text-align: justify;
+    width: 50%;
+    margin: 0 auto;
+    text-indent: 1rem;
+}
+a{
+    text-align: center;
+    display: block;
+    margin: 2rem auto;
+    width: 50%;
+}
